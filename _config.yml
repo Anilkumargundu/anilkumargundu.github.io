@@ -12,7 +12,7 @@ title                    : "Home"
 title_separator          : "-"
 name                     : &name "Dr. Anil Kumar Gundu"
 description              : &description "personal description"
-url                      : https://anilkumargundu.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://Anilkumargundu.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Anilkumargundu/anilkumargundu.github.io"
 
