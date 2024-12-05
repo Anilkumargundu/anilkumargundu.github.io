@@ -1,6 +1,7 @@
 ---
 title: "Low Leakage Clock Tree With Dual-Threshold- Voltage Split Input–Output Repeaters"
-permalink: /publication/2010-10-01-paper-title-number-2
+collection: publications
+category: manuscripts
 venue: 'IEEE Transactions on Very Large Scale Integration (VLSI) Systems,'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://ieeexplore.ieee.org/document/8667421'
