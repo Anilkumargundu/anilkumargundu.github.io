@@ -17,12 +17,12 @@ nav: true
       </ul>
      
      📍 <strong>Address</strong><br>
-      <address>
-        <p <strong>VLSI & Signal Processing Lab</strong><br></p>
+      <pre>
+        <strong>VLSI & Signal Processing Lab</strong><br>
         E4-04-427, Electrical and Computer Engineering<br>
         National University of Singapore<br>
         Lower Kent Ridge Road, Singapore 119077
-      </address>
+      </pre>
 
       <iframe 
         width="100%" 
