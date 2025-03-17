@@ -4,7 +4,6 @@ permalink: /contact/
 nav: true
 ---
 
-## Contact Information
 
 <div class="container mt-4">
   <div class="row">
