@@ -14,8 +14,8 @@ nav: true
       <ul class="list-unstyled" style="margin-bottom: 0; padding-top: 0;">
       <li style="margin-bottom: 0px;"><strong>Primary</strong>: <a href="mailto:gunduanilk@gmail.com">gunduanilk@gmail.com</a></li>
       <li style="margin-bottom: 2px;"><strong>Academic</strong>: <a href="mailto:akgundu@connect.ust.hk">akgundu@connect.ust.hk</a></li>
-      </ul>
-     
+      </ul>  
+      
      📍 <strong>Address</strong><br>
      <p style="margin-left: 60px;"><strong>VLSI & Signal Processing Lab</strong><br></p>
      <p style="margin-left: 60px;">E4-04-427, Electrical and Computer Engineering<br></p>
