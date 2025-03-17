@@ -36,7 +36,7 @@ nav: true
       </iframe style="margin-bottom: 20px;>  
 
          📊 Visitor Count
-      <p style="margin-top: 0px;">
+      <p>
         <img src="https://hitwebcounter.com/counter/counter.php?page=yourpageid&style=0006&nbdigits=5&type=ip" 
         alt="Visitor Counter" border="0">
       </p>
