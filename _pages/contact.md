@@ -4,8 +4,11 @@ permalink: /contact/
 nav: true
 ---
 
+## Contact Information
+
 <div class="container mt-4">
   <div class="row">
+    
     <!-- Left Column (Contact Info) -->
     <div class="col-lg-8"> 
       
@@ -41,6 +44,8 @@ nav: true
         <li><strong>Work</strong>: +91-XXX-XXXX-XXXX</li>
         <li><strong>Personal</strong>: +91-XXX-XXXX-XXXX</li>
       </ul>
+    </div>
+  </div>
+</div>
 
-      ---
 
