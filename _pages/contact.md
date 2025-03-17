@@ -18,13 +18,24 @@ nav: true
 
       ---
 
-      ### 📍 Address
+     
+     📍 Address
       <address>
-        <strong>Department of XYZ</strong><br>
-        University Name<br>
-        City, State, Country<br>
-        PIN: 123456
+        <strong>VLSI & SP Lab</strong><br>
+        E4-04-427, Electrical and Computer Engineering<br>
+        National University of Singapore<br>
+        Lower Kent Ridge Road, Singapore 119077
       </address>
+      
+      <iframe 
+        width="100%" 
+        height="300" 
+        frameborder="0" 
+        style="border:0" 
+        referrerpolicy="no-referrer-when-downgrade" 
+        src="https://www.google.com/maps/embed/v1/place?key=YOUR_GOOGLE_MAPS_API_KEY&q=National+University+of+Singapore,E4-04-427" 
+        allowfullscreen>
+      </iframe>
 
          </ul>
     </div>
