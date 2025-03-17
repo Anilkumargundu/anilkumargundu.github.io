@@ -10,7 +10,7 @@ nav: true
     <!-- Left Column (Contact Info) -->
     <div class="col-lg-8"> 
       
-     📧 **Email**
+     📧 <strong>Email</strong><br>
       <ul class="list-unstyled">
         <li><strong>Primary</strong>: <a href="mailto:gunduanilk@gmail.com">gunduanilk@gmail.com</a></li>
         <li><strong>Academic</strong>: <a href="akgundu@connect.ust.hk">akgundu@connect.ust.hk</a></li>
@@ -19,7 +19,7 @@ nav: true
      
      📍 <strong>Address</strong><br>
       <address>
-        <strong>VLSI & SP Lab</strong><br>
+        <strong>VLSI & Signal Processing Lab</strong><br>
         E4-04-427, Electrical and Computer Engineering<br>
         National University of Singapore<br>
         Lower Kent Ridge Road, Singapore 119077
