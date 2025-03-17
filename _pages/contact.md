@@ -24,7 +24,6 @@ nav: true
      Lower Kent Ridge Road, Singapore 119077
      </p>
      
-
       <iframe 
         width="100%" 
         height="300" 
