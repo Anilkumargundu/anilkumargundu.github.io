@@ -11,10 +11,12 @@ nav: true
     <div class="col-lg-8"> 
     
      📧 <strong>Email</strong><br style="margin: 0; padding: 0;">
+      <p style="margin-left: 0px;">
       <ul class="list-unstyled" style="margin-bottom: 0; padding-top: 0;">
       <li style="margin-bottom: 0px;"><strong>Primary</strong>: <a href="mailto:gunduanilk@gmail.com">gunduanilk@gmail.com</a></li>
       <li style="margin-bottom: 2px;"><strong>Academic</strong>: <a href="mailto:akgundu@connect.ust.hk">akgundu@connect.ust.hk</a></li>
-      </ul>  
+      </ul>
+      </p>
       
      📍 <strong>Address</strong><br>
      <p style="margin-left: 30px;">
