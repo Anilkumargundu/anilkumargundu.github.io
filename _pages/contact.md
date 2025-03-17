@@ -15,7 +15,7 @@ nav: true
       <li style="margin-bottom: 0px;"><strong>Primary</strong>: <a href="mailto:gunduanilk@gmail.com">gunduanilk@gmail.com</a></li>
       <li style="margin-bottom: 2px;"><strong>Academic</strong>: <a href="mailto:akgundu@connect.ust.hk">akgundu@connect.ust.hk</a></li>
       </ul>
-     
+     </li>
      📍 <strong>Address</strong><br>
       <address>
         <strong>VLSI & Signal Processing Lab</strong><br>
