@@ -17,7 +17,7 @@ nav: true
       </ul>  
       
      📍 <strong>Address</strong><br>
-     <p style="margin-left: 60px;">
+     <p style="margin-left: 30px;">
      <strong>VLSI & Signal Processing Lab</strong><br>
      E4-04-427, Electrical and Computer Engineering<br>
      National University of Singapore<br>
