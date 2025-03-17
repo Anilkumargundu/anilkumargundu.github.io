@@ -17,7 +17,7 @@ nav: true
       </ul>
 
      
-     📍 **Address**
+     📍 <strong>Address</strong><br>
       <address>
         <strong>VLSI & SP Lab</strong><br>
         E4-04-427, Electrical and Computer Engineering<br>
