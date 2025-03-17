@@ -1,7 +1,7 @@
 ---
-layout: archive
-
 permalink: /resources/
-author_profile: true
+nav: true
+---
+
 ---
 Under Construction
