@@ -9,7 +9,6 @@ nav: true
     
     <!-- Left Column (Contact Info) -->
     <div class="col-lg-8"> 
-      
      📧 <strong>Email</strong><br>
       <ul class="list-unstyled" style="margin-bottom: 1px;">
         <li><strong>Primary</strong>: <a href="mailto:gunduanilk@gmail.com">gunduanilk@gmail.com</a></li>
