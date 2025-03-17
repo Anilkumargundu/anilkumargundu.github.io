@@ -12,7 +12,7 @@ nav: true
       
      📧 <strong>Email</strong><br>
       <ul class="list-unstyled" style="margin-bottom: 1px;">
-        <li><strong>Primary</strong>: <a href="mailto:gunduanilk@gmail.com">gunduanilk@gmail.com</a>
+        <li><strong>Primary</strong>: <a href="mailto:gunduanilk@gmail.com">gunduanilk@gmail.com</li>
         <li><strong>Academic</strong>: <a href="akgundu@connect.ust.hk">akgundu@connect.ust.hk</a></li>
       </ul>
 
