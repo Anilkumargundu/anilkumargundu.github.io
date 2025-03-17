@@ -10,7 +10,8 @@ nav: true
     <!-- Left Column (Contact Info) -->
     <div class="col-lg-8"> 
     
-     📧 <strong>Email</strong><br style="margin: 0; padding: 0;">
+     📧 <strong>Email</strong>
+      <p style="margin: 0;">
       <p style="margin-left: 0px;">
       <ul class="list-unstyled" style="margin: 0; padding-top: 0;">
       <li style="margin-bottom: 0px;"><strong>Primary</strong>: <a href="mailto:gunduanilk@gmail.com">gunduanilk@gmail.com</a></li>
