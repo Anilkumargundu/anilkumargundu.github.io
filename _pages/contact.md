@@ -17,7 +17,7 @@ nav: true
       </ul>
      
      📍 <strong>Address</strong><br>
-     <p style="margin-left: 30px;">This text is indented using margin.</p>
+     <p style="margin-left: 60px;">This text is indented using margin.</p>
       <pre>
         <strong>VLSI & Signal Processing Lab</strong><br>
         E4-04-427, Electrical and Computer Engineering<br>
