@@ -18,7 +18,7 @@ nav: true
      
      📍 <strong>Address</strong><br>
       <address>
-        <strong>VLSI & Signal Processing Lab</strong><br>
+        <p <strong>VLSI & Signal Processing Lab</strong><br></p>
         E4-04-427, Electrical and Computer Engineering<br>
         National University of Singapore<br>
         Lower Kent Ridge Road, Singapore 119077
