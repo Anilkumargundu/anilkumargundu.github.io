@@ -12,8 +12,8 @@ nav: true
       
      📧 Email
       <ul class="list-unstyled">
-        <li><strong>Primary</strong>: <a href="mailto:gunduanilk@gmail.com">your.email@example.com</a></li>
-        <li><strong>Academic</strong>: <a href="akgundu@connect.ust.hk">university.email@edu.in</a></li>
+        <li><strong>Primary</strong>: <a href="mailto:gunduanilk@gmail.com">gunduanilk@gmail.com</a></li>
+        <li><strong>Academic</strong>: <a href="akgundu@connect.ust.hk">akgundu@connect.ust.hk</a></li>
       </ul>
 
       ---
