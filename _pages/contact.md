@@ -10,19 +10,10 @@ nav: true
     <!-- Left Column (Contact Info) -->
     <div class="col-lg-8"> 
       
-      ### 📧 Email
+     📧 Email
       <ul class="list-unstyled">
-        <li><strong>Primary</strong>: <a href="mailto:your.email@example.com">your.email@example.com</a></li>
-        <li><strong>Academic</strong>: <a href="mailto:university.email@edu.in">university.email@edu.in</a></li>
-      </ul>
-
-      ---
-
-      ### 🌐 Social Media
-      <ul class="list-unstyled">
-        <li><strong>GitHub</strong>: <a href="https://github.com/Anilkumargundu" target="_blank">@Anilkumargundu</a></li>
-        <li><strong>LinkedIn</strong>: <a href="https://linkedin.com/in/your-profile" target="_blank">Your LinkedIn Profile</a></li>
-        <li><strong>Twitter/X</strong>: <a href="https://twitter.com/YourHandle" target="_blank">@YourHandle</a></li>
+        <li><strong>Primary</strong>: <a href="mailto:gunduanilk@gmail.com">your.email@example.com</a></li>
+        <li><strong>Academic</strong>: <a href="akgundu@connect.ust.hk">university.email@edu.in</a></li>
       </ul>
 
       ---
@@ -35,13 +26,7 @@ nav: true
         PIN: 123456
       </address>
 
-      ---
-
-      ### 📞 Phone
-      <ul class="list-unstyled">
-        <li><strong>Work</strong>: +91-XXX-XXXX-XXXX</li>
-        <li><strong>Personal</strong>: +91-XXX-XXXX-XXXX</li>
-      </ul>
+         </ul>
     </div>
   </div>
 </div>
