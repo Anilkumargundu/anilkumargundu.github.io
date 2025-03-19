@@ -1,3 +1,8 @@
+--
+title: Contact
+permalink: /contact/
+nav: true
+---
 
 ## 🎥 Watch the Demo  
 Check out our **battery-less e-textile step counting system** in action!  
