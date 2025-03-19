@@ -13,7 +13,7 @@ Check out our **battery-less e-textile step counting system** in action!
 ✅ Seamless textile integration  
 ✅ Step counting with energy harvesting
 
-## 🎥 Chip Gallery
+## 🏭 Chip Gallery
 to be updated
 
       
