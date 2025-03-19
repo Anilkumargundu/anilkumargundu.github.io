@@ -1,6 +1,6 @@
 ---
-title: Contact
-permalink: /contact/
+title: Resources
+permalink: /resources/
 nav: true
 ---
 
