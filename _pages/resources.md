@@ -1,11 +1,3 @@
----
-title: "Demo of E-Textile Battery-Less Walking Step Counting System"
-collection: publications
-category: manuscripts
-venue: "Industry Day, National University of Singapore - Singapore"
-permalink: /publications/e-textile-demo
-nav: true
----
 
 ## 🎥 Watch the Demo  
 Check out our **battery-less e-textile step counting system** in action!  
