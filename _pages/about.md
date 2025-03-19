@@ -12,4 +12,4 @@ I received my PhD and  M.Tech in Electronics and Computer Engineering at The Hon
 
 I’m from Vizag, India and currently live in Singapore.
 
-my full CV [here](/files/Anilkumar_CV.pdf) (it might need some updating)
+my full CV [here](/files/Anilkumar_CV.pdf) (it might need some updating).
