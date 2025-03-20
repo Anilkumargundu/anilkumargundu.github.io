@@ -43,9 +43,7 @@ nav: true
       
       🗺️ Visitor Map
       <p>
-        <a href="https://clustrmaps.com/site/yourmapid" target="_blank">
-          <img src="https://www.clustrmaps.com/map_v2.png?d=yourmapid" 
-          alt="Visitor Map" style="border:0;">
-        </a>
+        <script type="text/javascript" id="clstr_globe" 
+        src="//clustrmaps.com/globe.js?d=kB96-8_SN94hOOXrYqCd5ETfatWQ4VHpZ7-UoEjsY3g"></script>
       </p>
 
