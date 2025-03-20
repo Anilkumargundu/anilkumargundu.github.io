@@ -43,7 +43,7 @@ nav: true
       
       🗺️ Visitor Map
       <p>
-        <div style="width:150px; height:150px; overflow:hidden;">
+        <div style="width:250px; height:250px; overflow:hidden;">
           <script type="text/javascript" id="clstr_globe" 
             src="//clustrmaps.com/globe.js?d=kB96-8_SN94hOOXrYqCd5ETfatWQ4VHpZ7-UoEjsY3g&size=150">
           </script>
