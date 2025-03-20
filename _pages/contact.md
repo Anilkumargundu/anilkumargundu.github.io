@@ -40,4 +40,12 @@ nav: true
         <img src="https://hitwebcounter.com/counter/counter.php?page=yourpageid&style=0006&nbdigits=5&type=ip" 
         alt="Visitor Counter" border="0">
       </p>
+      
+      🗺️ Visitor Map
+      <p>
+        <a href="https://clustrmaps.com/site/yourmapid" target="_blank">
+          <img src="https://www.clustrmaps.com/map_v2.png?d=yourmapid" 
+          alt="Visitor Map" style="border:0;">
+        </a>
+      </p>
 
