@@ -43,10 +43,11 @@ nav: true
       
       🗺️ Visitor Map
       <p>
-        width="100%" 
-        height="300" 
-        frameborder="0"
-        <script type="text/javascript" id="clstr_globe" 
-        src="//clustrmaps.com/globe.js?d=kB96-8_SN94hOOXrYqCd5ETfatWQ4VHpZ7-UoEjsY3g"></script>
+        <div style="width:150px; height:150px; overflow:hidden;">
+          <script type="text/javascript" id="clstr_globe" 
+            src="//clustrmaps.com/globe.js?d=kB96-8_SN94hOOXrYqCd5ETfatWQ4VHpZ7-UoEjsY3g&size=150">
+          </script>
+        </div>
       </p>
+
 
