@@ -41,13 +41,14 @@ nav: true
         alt="Visitor Counter" border="0">
       </p>
       
-      🗺️ Visitor Map
-      <p>
+         <p>
+      <a href="https://clustrmaps.com/site/1bxy4" target="_blank">
         <div style="width:250px; height:250px; overflow:hidden;">
           <script type="text/javascript" id="clstr_globe" 
             src="//clustrmaps.com/globe.js?d=kB96-8_SN94hOOXrYqCd5ETfatWQ4VHpZ7-UoEjsY3g&size=150">
           </script>
         </div>
-      </p>
+      </a>
+    </p>
 
 
