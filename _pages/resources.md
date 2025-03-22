@@ -19,11 +19,9 @@ Automated **GMID-based NMOS characterization** using Python for **SkyWater 130nm
 ### 🔹 Features:
 - **Automated GMID extraction & plotting**
 - **SkyWater 130nm open-source PDK** support
-- **Python scripts for efficient analysis**
-
+- **Python scripts for efficient analysis**  
 ### 📂 **GitHub Repository**
-[GitHub: gmid_skywater_130](https://github.com/Anilkumargundu/gmid_skywater_130)
-
+[GitHub: gmid_skywater_130](https://github.com/Anilkumargundu/gmid_skywater_130){:target="_blank"}  
 ### 🚀 **Quick Start**
 ```bash
 git clone https://github.com/Anilkumargundu/gmid_skywater_130.git
