@@ -34,5 +34,3 @@ You can find a nice video [here](https://www.youtube.com/watch?v=bvi37IbJXS4) {:
 
 ## 🏭 Chip Gallery
 to be updated
-
-      
