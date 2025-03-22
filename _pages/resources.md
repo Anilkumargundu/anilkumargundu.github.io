@@ -13,6 +13,24 @@ Check out our **battery-less e-textile step counting system** in action!
 ✅ Seamless textile integration  
 ✅ Step counting with energy harvesting
 
+
+## 📌 NMOS GMID Plot Generation – SkyWater 130nm
+Automated **GMID-based NMOS characterization** using Python for **SkyWater 130nm PDK**.
+### 🔹 Features:
+- **Automated GMID extraction & plotting**
+- **SkyWater 130nm open-source PDK** support
+- **Python scripts for efficient analysis**
+
+### 📂 **GitHub Repository**
+[GitHub: gmid_skywater_130](https://github.com/Anilkumargundu/gmid_skywater_130)
+
+### 🚀 **Quick Start**
+```bash
+git clone https://github.com/Anilkumargundu/gmid_skywater_130.git
+cd gmid_skywater_130
+python generate_gmid_plots.py
+```
+
 ## 🏭 Chip Gallery
 to be updated
 
