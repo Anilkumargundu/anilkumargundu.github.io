@@ -9,6 +9,9 @@ Follow these steps to initialize a Git repository and push changes to GitHub.
 ```bash
 git init
 ```
+#### **1.b - add the file that is created
+git add filename
+
 
 ### **2. Commit Your Changes**
 ```bash
