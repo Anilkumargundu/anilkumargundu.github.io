@@ -1,0 +1,39 @@
+
+# Git Setup and Push Instructions
+
+Follow these steps to initialize a Git repository and push changes to GitHub.
+
+## **Steps to Push Changes**
+
+### **1. Initialize a Git Repository (If not already initialized)**
+```bash
+git init
+```
+
+### **2. Commit Your Changes**
+```bash
+git commit -am "Describe your changes here"
+```
+
+### **3. Set the Remote Repository URL**
+```bash
+git remote set-url origin https://your_Persona_accrss_token@github.com/Anilkumargundu/anilkumargundu.github.io
+```
+⚠️ **Warning:** Do not share or expose your GitHub Personal Access Token (PAT) in public repositories. Use SSH authentication or a credentials manager instead.
+
+### **4. Push Changes to GitHub**
+```bash
+git push origin master
+```
+
+### **Note:**
+- Ensure you have the necessary permissions to push to the repository.
+- If the remote contains new changes, run:
+  ```bash
+  git pull origin master --rebase
+  ```
+  before pushing to avoid conflicts.
+
+
+
+Happy coding! 🚀
