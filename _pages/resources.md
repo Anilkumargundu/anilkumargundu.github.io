@@ -29,6 +29,9 @@ cd gmid_skywater_130
 python generate_gmid_plots.py
 ```
 
+## 📌 Make your First GitHub repository and push to Github on Linux
+You can find a nice video [here](https://www.youtube.com/watch?v=bvi37IbJXS4) {:target="_blank"} on how to create, commit, and push a repository that I came across.  
+
 ## 🏭 Chip Gallery
 to be updated
 
