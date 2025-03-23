@@ -11,4 +11,4 @@ I am a post-doctoral researcher in the Electrical and Computer Engineering (ECE)
 
 I’m from Vizag, India, and currently live in Singapore.
 
-my full CV [here](/files/Anilkumar_CV.pdf){:target="_blank"} (it might need some updating).
+my full CV [here](/files/Anilkumar_CV.pdf){:target="_blank"} (it might need some updating)
