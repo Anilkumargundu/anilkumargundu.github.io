@@ -38,4 +38,4 @@ You can find a nice video I came across on how to create, commit, and push a rep
 >>>>>>> 4270f4a (resources_update)
 
 ## 🏭 Chip Gallery
-to be updated
+to be updated!
