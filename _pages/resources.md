@@ -31,11 +31,9 @@ python generate_gmid_plots.py
 Tutorial on how to install skywater 130nm PDK is [here](https://github.com/bmurmann/EE628.git){:target="_blank"}
  
 ## 📌 Make your First GitHub repository and push to Github on Linux
-<<<<<<< HEAD
-You can find a nice video [here](https://www.youtube.com/watch?v=bvi37IbJXS4){:target="_blank"} I came across on how to create, commit, and push a repository to github.  
-=======
-You can find a nice video I came across on how to create, commit, and push a repository to git [here](https://www.youtube.com/watch?v=bvi37IbJXS4){:target="_blank"}.  
->>>>>>> 4270f4a (resources_update)
+
+
+You can find a nice video I came across on how to create, commit, and push a repository to git [here](https://www.youtube.com/watch?v=bvi37IbJXS4){:target="_blank"}.
 
 ## 🏭 Chip Gallery
 to be updated!
