@@ -34,7 +34,7 @@ Tutorial on how to install skywater 130nm PDK is [here](https://github.com/bmurm
  
 ## 📌 Make your First GitHub repository and push to Github on Linux
 You can find a nice video [here](https://www.youtube.com/watch?v=bvi37IbJXS4){:target="_blank"} that I came across on how to create, commit, and push a repository . 
-## 🏭 Old notes nicely summarized about the flicker noise in the mosfet w.r.t VGS and CDS
+## 📌 Old notes nicely summarized about the flicker noise in the mosfet w.r.t VGS and CDS
 View the pdf [here](/files/noise_in_mosfet.pdf){:target="_blank"}
 
 ## 🏭 Chip Gallery
