@@ -45,31 +45,46 @@ fig, axs = plt.subplots(2, 2, figsize=(12, 10))
 # Input signal
 axs[0, 0].plot(time, input_signal, label='Input Signal', color='g')
 axs[0, 0].set_title("Input Step Signal")
+axs[0, 0].set_xlabel("Time (s)")
+axs[0, 0].set_ylabel("Amplitude")
 axs[0, 0].grid(True)
+axs[0, 0].legend()
 
 # Step response
 axs[0, 1].plot(time, response, label='Response', color='b')
 axs[0, 1].set_title("Step Response")
+axs[0, 1].set_xlabel("Time (s)")
+axs[0, 1].set_ylabel("Amplitude")
 axs[0, 1].grid(True)
+axs[0, 1].legend()
 
 # Pole plot
 axs[1, 0].plot(np.real(poles), np.imag(poles), 'rx', label='Poles', markersize=10)
 axs[1, 0].axhline(0, color='black', lw=0.5)
 axs[1, 0].axvline(0, color='black', lw=0.5)
 axs[1, 0].set_title("Poles in Complex Plane")
+axs[1, 0].set_xlabel("Real Part")
+axs[1, 0].set_ylabel("Imaginary Part")
 axs[1, 0].grid(True)
+axs[1, 0].legend()
 
 # Bode plot
-axs[1, 1].semilogx(w / (2 * np.pi), mag, label='Magnitude (dB)', color='orange')
-axs[1, 1].semilogx(w / (2 * np.pi), phase, label='Phase (°)', color='purple')
+freqs_Hz = w / (2 * np.pi)
+axs[1, 1].semilogx(freqs_Hz, mag, label='Magnitude (dB)', color='orange')
+axs[1, 1].semilogx(freqs_Hz, phase, label='Phase (°)', color='purple')
 axs[1, 1].set_title("Frequency Response")
-axs[1, 1].grid(True)
+axs[1, 1].set_xlabel("Frequency (Hz)")
+axs[1, 1].set_ylabel("Magnitude / Phase")
+axs[1, 1].grid(True, which='both', ls='--', lw=0.5)
+axs[1, 1].legend()
 
+# Mark poles on Bode plot
 for freq in pole_frequencies:
-    axs[1, 1].plot(freq, np.interp(freq, w / (2 * np.pi), mag), 'o', color='red')
+    axs[1, 1].plot(freq, np.interp(freq, freqs_Hz, mag), 'o', color='red')
 
-axs[1, 1].text(1e7, max(mag) - 10, f'Cutoff: {cutoff_frequency:.2e} Hz', color='blue')
-axs[1, 1].text(1e8, max(mag) - 20, f'Slope: {slope:.2f} dB/dec', color='red')
+# Annotations
+axs[1, 1].text(freqs_Hz[-150], max(mag) - 10, f'Cutoff: {cutoff_frequency:.2e} Hz', color='blue')
+axs[1, 1].text(freqs_Hz[-150], max(mag) - 20, f'Slope: {slope:.2f} dB/dec', color='red')
 
 plt.tight_layout()
 st.pyplot(fig)
