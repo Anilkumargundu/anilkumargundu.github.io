@@ -16,16 +16,12 @@ You can access the attached 2-slides explaining the impact of tail current sourc
 
 
 ## 🎯 Second-Order System Analyzer
-You can interact with the app below:
-<iframe src="https://anilkumargunduappio-vn7g32vsgc8x5qsybdbuqx.streamlit.app/"
-        width="100%" height="200" frameborder="0">
-</iframe>
+👉 Click below to launch the interactive app:
+[🔗 Open Streamlit App](https://anilkumargunduappio-vn7g32vsgc8x5qsybdbuqx.streamlit.app/)
 
 ## 📈 Sample Output Plot
 Here’s a plot showing the system’s step response:
-<img src="https://raw.githubusercontent.com/anilkumargundu/myrepo/main/images/step_response.png"
-     alt="Step Response" width="600">
-
+![Step Response](https://raw.githubusercontent.com/anilkumargundu/myrepo/main/images/step_response.png)
 
 ## 📌 NMOS GMID Plot Generation – SkyWater 130nm
 Automated **GMID-based NMOS characterization** using Python for **SkyWater 130nm PDK**.
