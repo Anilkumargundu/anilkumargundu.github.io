@@ -9,9 +9,7 @@ Check out our **battery-less e-textile step counting system** in action!
 📺 [Click here to watch on YouTube](https://www.youtube.com/watch?v=TVmZA9vIDyw){:target="_blank"}  
 📑 View the Slide Deck [here](/files/VLSI_2024_Session_C27_v3.pdf){:target="_blank"} and Demo Poster [here](/files/2024_VLSI_Demo_Poster.pdf){:target="_blank"} for more details of our work!  
 🚀 **Key Highlights**:  
-✅ Battery-free operation  
-✅ Seamless textile integration  
-✅ Step counting with energy harvesting
+✅ Battery-free operation  ✅ Seamless textile integration  ✅ Step counting with energy harvesting
 
 ## 📌 Role of Tail Current Source Resistance in Common-Mode Gain
 You can access the attached 2-slides explaining the impact of tail current source on the common mode gain of the 5T- diff.pair [here](/files/COMMON_MODE_GAIN.pdf){:target="_blank"}. Concept verified using skywater 130nm PDK! 
