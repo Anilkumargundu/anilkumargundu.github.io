@@ -7,7 +7,7 @@ import plotly.subplots as sp
 
 # Title and user inputs
 st.markdown("""
-### Analyze Second Order System   
+### From Oscillations to Stability: The Influence of Damping   
 <sub>Adjust the damping factor (or Q-factor) and visually explore how it influences the transient response, magnitude response, and the pole locations of a second-order system. </sub>
 
 **Transfer Function**  
