@@ -9,11 +9,11 @@ import plotly.subplots as sp
 st.markdown("""
 ### Second-Order System Analyzer  
 <sub>Analyze the dynamics of a standard second-order system</sub>
-#### Transfer Function  
-\\[
-H(s) = Kωn² / (s² + 2ζωns + ωn²)
-\\]
+
+**Transfer Function**  
+H(s) = K·ω₀² / (s² + 2·ζ·ω₀·s + ω₀²)
 """, unsafe_allow_html=True)
+
 
 
 K = st.number_input("DC Gain (K)", value=1000)
