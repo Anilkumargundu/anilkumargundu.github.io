@@ -113,7 +113,7 @@ except Exception as e:
 st.markdown(
     """
     <hr style="margin-top: 3em; margin-bottom: 0.5em">
-    <div style='text-align: center; font-size: 0.9em; color: gray;'>
+    <div style='text-align: center; font-size: 9em; color: black;'>
         © 2025 Anil Kumar Gundu | 
         <a href="https://anilkumargundu.github.io" target="_blank">Visit My Website</a>
     </div>
