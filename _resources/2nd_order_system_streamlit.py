@@ -60,7 +60,21 @@ try:
         marker=dict(size=8, color='blue')
     ), row=2, col=2)
 
-    # Axis labels
+    # Axis labels and enhancements
+    for row in range(1, 3):
+        for col in range(1, 3):
+            fig.update_xaxes(
+                showline=True, linewidth=1, linecolor='black',
+                showgrid=True, zeroline=True, zerolinewidth=1, zerolinecolor='gray',
+                row=row, col=col
+            )
+            fig.update_yaxes(
+                showline=True, linewidth=1, linecolor='black',
+                showgrid=True, zeroline=True, zerolinewidth=1, zerolinecolor='gray',
+                row=row, col=col
+            )
+
+    # Individual axis titles
     fig.update_xaxes(title_text="Time (s)", row=1, col=1)
     fig.update_yaxes(title_text="Amplitude", row=1, col=1)
     fig.update_xaxes(title_text="Time (s)", row=1, col=2)
@@ -70,7 +84,7 @@ try:
     fig.update_xaxes(title_text="Frequency (Hz)", type="log", row=2, col=2)
     fig.update_yaxes(title_text="Magnitude / Phase", row=2, col=2)
 
-    # Legend below plot
+    # Layout settings
     fig.update_layout(
         height=850, width=1100,
         showlegend=True,
@@ -79,7 +93,8 @@ try:
             yanchor="bottom", y=-0.25,
             xanchor="center", x=0.5
         ),
-        margin=dict(t=80, b=100)
+        margin=dict(t=80, b=100),
+        plot_bgcolor='white'
     )
 
     st.plotly_chart(fig, use_container_width=True)
