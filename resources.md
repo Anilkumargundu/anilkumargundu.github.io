@@ -18,7 +18,7 @@ You can access the attached 2-slides explaining the impact of tail current sourc
 ## 🎯 Second-Order System Analyzer
 You can interact with the app below:
 <iframe src="https://anilkumargundu-second-order-system-analyzer.streamlit.app/"
-        width="100%" height="700" frameborder="0">
+        width="40%" height="200" frameborder="0">
 </iframe>
 
 ## 📈 Sample Output Plot
