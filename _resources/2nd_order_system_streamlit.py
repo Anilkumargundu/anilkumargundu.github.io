@@ -10,7 +10,7 @@ st.title("Second-Order System Analyzer")
 
 K = st.number_input("DC Gain (K)", value=1000)
 omega_0 = st.number_input("Natural Frequency ω₀ (rad/s)", value=2 * math.pi * 1000)
-zeta = st.slider("Damping Ratio ζ", min_value=0.0, max_value=2.0, value=0.5, step=0.05)
+zeta = st.slider("Damping Ratio ζ", min_value=0.0, max_value=2.0, value=0.5, step=0.025)
 
 try:
     # Transfer function
