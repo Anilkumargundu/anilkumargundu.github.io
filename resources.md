@@ -15,7 +15,7 @@ Check out our **battery-less e-textile step counting system** in action!
 You can access the attached 2-slides explaining the impact of tail current source on the common mode gain of the 5T- diff.pair [here](/files/COMMON_MODE_GAIN.pdf){:target="_blank"}. Concept verified using skywater 130nm PDK! 
 
 ## 📌 From Oscillations to Stability: The Influence of Damping
-👉 Adjust the damping factor (or Q-factor) and visually explore how it influences the transient response, magnitude response, and the pole locations of a second-order system [here](https://anilkumargunduappio-vn7g32vsgc8x5qsybdbuqx.streamlit.app/){:target="_blank"}
+Adjust the damping factor (or Q-factor) and visually explore how it influences the transient response, magnitude response, and the pole locations of a second-order system [here](https://anilkumargunduappio-vn7g32vsgc8x5qsybdbuqx.streamlit.app/){:target="_blank"}
 
 ## 📌 NMOS GMID Plot Generation – SkyWater 130nm
 Automated **GMID-based NMOS characterization** using Python for **SkyWater 130nm PDK**.
