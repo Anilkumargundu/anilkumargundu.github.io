@@ -14,10 +14,8 @@ Check out our **battery-less e-textile step counting system** in action!
 ## 📌 Role of Tail Current Source Resistance in Common-Mode Gain
 You can access the attached 2-slides explaining the impact of tail current source on the common mode gain of the 5T- diff.pair [here](/files/COMMON_MODE_GAIN.pdf){:target="_blank"}. Concept verified using skywater 130nm PDK! 
 
-## 🎯 Second-Order System Analyzer
-👉 Click below to launch the interactive app:
-[second order transfer function analyzer](https://anilkumargunduappio-vn7g32vsgc8x5qsybdbuqx.streamlit.app/){:target="_blank"}
-
+## 📌 From Oscillations to Stability: The Influence of Damping
+👉 Adjust the damping factor (or Q-factor) and visually explore how it influences the transient response, magnitude response, and the pole locations of a second-order system [here](https://anilkumargunduappio-vn7g32vsgc8x5qsybdbuqx.streamlit.app/){:target="_blank"}
 
 ## 📌 NMOS GMID Plot Generation – SkyWater 130nm
 Automated **GMID-based NMOS characterization** using Python for **SkyWater 130nm PDK**.
@@ -37,7 +35,7 @@ Tutorial on how to install skywater 130nm PDK is [here](https://github.com/bmurm
  
 ## 📌 Make your First GitHub repository and push to Github on Linux
 You can find a nice video [here](https://www.youtube.com/watch?v=bvi37IbJXS4){:target="_blank"} that I came across on how to create, commit, and push a repository . 
-## 📌 Old notes nicely summarized about the flicker noise in the mosfet w.r.t VGS and CDS
+## 📌 Old notes nicely summarized about the flicker noise in the mosfet w.r.t VGS and VDS
 View the pdf [here](/files/noise_in_mosfet.pdf){:target="_blank"}
 
 ## 🏭 Chip Gallery
