@@ -118,6 +118,5 @@ st.markdown(
         <a href="https://anilkumargundu.github.io" target="_blank">Visit My Website</a>
     </div>
     """,
-    unsafe_allow_html=True
-)
+    unsafe_allow_html=True)
 
