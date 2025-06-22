@@ -86,19 +86,4 @@ fig.update_yaxes(title_text="Magnitude (dB) / Phase (°)", row=2, col=2)
 
 fig.update_layout(height=800, width=1000, showlegend=True)
 
-# Show in Streamlit
-st.plotly_chart(fig, use_container_width=True)
-fig.update_layout(
-    height=800,
-    width=1000,
-    showlegend=True,
-    legend=dict(
-        orientation="h",          # Horizontal legend
-        yanchor="bottom",
-        y=-0.25,                  # Push legend further below plot
-        xanchor="center",
-        x=0.5,
-        font=dict(size=12)
-    )
-)
 
