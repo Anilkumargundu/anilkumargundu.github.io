@@ -43,25 +43,25 @@ fig = sp.make_subplots(rows=2, cols=2, subplot_titles=(
 ))
 
 # Plot 1: Input signal
-fig.add_trace(go.Scatter(x=time, y=input_signal, mode='lines', name='Input Signal', line=dict(color='green')),
-              row=1, col=1)
+fig.add_trace(go.Scatter(x=time, y=input_signal, mode='lines', name='Input Signal',
+                         line=dict(color='green')), row=1, col=1)
 
 # Plot 2: Step response
-fig.add_trace(go.Scatter(x=time, y=response, mode='lines', name='Step Response', line=dict(color='blue')),
-              row=1, col=2)
+fig.add_trace(go.Scatter(x=time, y=response, mode='lines', name='Step Response',
+                         line=dict(color='blue')), row=1, col=2)
 
 # Plot 3: Poles
 fig.add_trace(go.Scatter(x=np.real(poles), y=np.imag(poles), mode='markers',
                          marker=dict(color='red', size=10), name='Poles'), row=2, col=1)
 
-# Plot 4: Bode plot
+# Plot 4: Bode magnitude and phase
 freqs_Hz = w / (2 * np.pi)
-fig.add_trace(go.Scatter(x=freqs_Hz, y=mag, mode='lines', name='Magnitude (dB)', line=dict(color='orange')),
-              row=2, col=2)
-fig.add_trace(go.Scatter(x=freqs_Hz, y=phase, mode='lines', name='Phase (°)', line=dict(color='purple')),
-              row=2, col=2)
+fig.add_trace(go.Scatter(x=freqs_Hz, y=mag, mode='lines', name='Magnitude (dB)',
+                         line=dict(color='orange')), row=2, col=2)
+fig.add_trace(go.Scatter(x=freqs_Hz, y=phase, mode='lines', name='Phase (°)',
+                         line=dict(color='purple')), row=2, col=2)
 
-# Annotations
+# Annotation: cutoff point
 fig.add_trace(go.Scatter(
     x=[cutoff_frequency],
     y=[mag[cutoff_idx]],
@@ -84,6 +84,21 @@ fig.update_yaxes(title_text="Imaginary Part", row=2, col=1)
 fig.update_xaxes(title_text="Frequency (Hz)", type="log", row=2, col=2)
 fig.update_yaxes(title_text="Magnitude (dB) / Phase (°)", row=2, col=2)
 
-fig.update_layout(height=800, width=1000, showlegend=True)
+# Legend formatting
+fig.update_layout(
+    height=850,
+    width=1100,
+    showlegend=True,
+    legend=dict(
+        orientation="h",
+        yanchor="bottom",
+        y=-0.3,
+        xanchor="center",
+        x=0.5,
+        font=dict(size=12)
+    ),
+    margin=dict(l=40, r=40, t=80, b=80)
+)
 
-
+# Show in Streamlit
+st.plotly_chart(fig, use_container_width=True)
