@@ -7,8 +7,8 @@ import plotly.subplots as sp
 
 # Title and user inputs
 st.markdown("""
-### Second-Order System Analyzer  
-<sub>Analyze the dynamics of a standard second-order system</sub>
+### Analyze Second Order System   
+<sub>Adjust the damping factor (or Q-factor) and visually explore how it influences the transient response, magnitude response, and the pole locations of a second-order system. </sub>
 
 **Transfer Function**  
 H(s) = K·ω₀² / (s² + 2·ζ·ω₀·s + ω₀²)
