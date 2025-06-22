@@ -7,12 +7,11 @@ import plotly.subplots as sp
 
 # Title and user inputs
 st.markdown("""
-### 🔍 Second-Order System Analyzer  
+### Second-Order System Analyzer  
 <sub>Analyze the dynamics of a standard second-order system</sub>
-
 #### Transfer Function  
 \\[
-H(s) = \\frac{K \\cdot \\omega_0^2}{s^2 + 2\\zeta\\omega_0 s + \\omega_0^2}
+H(s) = Kωn² / (s² + 2ζωns + ωn²)
 \\]
 """, unsafe_allow_html=True)
 
