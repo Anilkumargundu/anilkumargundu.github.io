@@ -14,12 +14,10 @@ Check out our **battery-less e-textile step counting system** in action!
 ## 📌 Role of Tail Current Source Resistance in Common-Mode Gain
 You can access the attached 2-slides explaining the impact of tail current source on the common mode gain of the 5T- diff.pair [here](/files/COMMON_MODE_GAIN.pdf){:target="_blank"}. Concept verified using skywater 130nm PDK! 
 
-
 ## 🎯 Second-Order System Analyzer
-You can interact with the app below:
-<iframe src="https://anilkumargunduappio-vn7g32vsgc8x5qsybdbuqx.streamlit.app/"
-        width="100%" height="700" frameborder="0">
-</iframe>
+Click below to open the interactive version:
+👉 [Open the Interactive App](resources.html)
+
 
 ## 📌 NMOS GMID Plot Generation – SkyWater 130nm
 Automated **GMID-based NMOS characterization** using Python for **SkyWater 130nm PDK**.
