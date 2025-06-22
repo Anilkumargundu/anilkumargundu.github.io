@@ -64,12 +64,12 @@ try:
     for row in range(1, 3):
         for col in range(1, 3):
             fig.update_xaxes(
-                showline=True, linewidth=1, linecolor='black',
+                showline=True, linewidth=2, linecolor='black',
                 showgrid=True, zeroline=True, zerolinewidth=1, zerolinecolor='gray',
                 row=row, col=col
             )
             fig.update_yaxes(
-                showline=True, linewidth=1, linecolor='black',
+                showline=True, linewidth=2, linecolor='black',
                 showgrid=True, zeroline=True, zerolinewidth=1, zerolinecolor='gray',
                 row=row, col=col
             )
