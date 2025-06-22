@@ -60,13 +60,13 @@ try:
     fig.add_trace(go.Scatter(x=freqs_Hz, y=mag, name="Magnitude (dB)", line=dict(color='orange')), row=2, col=2)
     fig.add_trace(go.Scatter(x=freqs_Hz, y=phase, name="Phase (°)", line=dict(color='purple')), row=2, col=2)
 
-    #fig.add_trace(go.Scatter(
-     #   x=[cutoff_frequency], y=[mag[cutoff_idx]],
-      #  mode="markers+text",
-       # text=[f"Cutoff: {cutoff_frequency:.2e} Hz"],
-        #textposition="top right",
-        #marker=dict(size=8, color='blue')
-    #), row=2, col=2)
+    fig.add_trace(go.Scatter(
+        x=[cutoff_frequency], y=[mag[cutoff_idx]],
+        mode="markers+text",
+        text=[f"Cutoff: {cutoff_frequency:.2e} Hz"],
+        textposition="top right",
+        marker=dict(size=8, color='blue')
+    ), row=2, col=2)
 
     # Axis labels and enhancements
     for row in range(1, 3):
