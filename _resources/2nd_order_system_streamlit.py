@@ -109,3 +109,15 @@ try:
 
 except Exception as e:
     st.error(f"⚠️ An error occurred: {e}")
+
+st.markdown(
+    """
+    <hr style="margin-top: 3em; margin-bottom: 0.5em">
+    <div style='text-align: center; font-size: 0.9em; color: gray;'>
+        © 2025 Anil Kumar Gundu | 
+        <a href="https://anilkumargundu.github.io" target="_blank">Visit My Website</a>
+    </div>
+    """,
+    unsafe_allow_html=True
+)
+
