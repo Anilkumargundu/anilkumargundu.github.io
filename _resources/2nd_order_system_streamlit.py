@@ -6,7 +6,16 @@ import plotly.graph_objs as go
 import plotly.subplots as sp
 
 # Title and user inputs
-st.title("Second-Order System Analyzer")
+st.markdown("""
+### 🔍 Second-Order System Analyzer  
+<sub>Analyze the dynamics of a standard second-order system</sub>
+
+#### Transfer Function  
+\\[
+H(s) = \\frac{K \\cdot \\omega_0^2}{s^2 + 2\\zeta\\omega_0 s + \\omega_0^2}
+\\]
+""", unsafe_allow_html=True)
+
 
 K = st.number_input("DC Gain (K)", value=1000)
 omega_0 = st.number_input("Natural Frequency ω₀ (rad/s)", value=2 * math.pi * 1000)
