@@ -12,15 +12,6 @@ K = st.number_input("DC Gain (K)", value=1000)
 omega_0 = st.number_input("Natural Frequency ω₀ (rad/s)", value=2 * math.pi * 1000)
 zeta = st.slider("Damping Ratio ζ", min_value=0.0, max_value=2.0, value=0.5, step=0.05)
 
-st.markdown("### Legend")
-st.markdown("""
-- <span style="color:green">■</span> **Input Signal**  
-- <span style="color:blue">■</span> **Step Response**  
-- <span style="color:red">●</span> **Poles**  
-- <span style="color:orange">■</span> **Magnitude (dB)**  
-- <span style="color:purple">■</span> **Phase (°)**  
-""", unsafe_allow_html=True)
-
 # Define the system
 numerator = [K * omega_0**2]
 denominator = [1, 2 * zeta * omega_0, omega_0**2]
