@@ -16,7 +16,7 @@ You can access the attached 2-slides explaining the impact of tail current sourc
 
 ## 🎯 Second-Order System Analyzer
 👉 Click below to launch the interactive app:
-[🔗 second order transfer function analyzer](https://anilkumargunduappio-vn7g32vsgc8x5qsybdbuqx.streamlit.app/){:target="_blank"}
+[second order transfer function analyzer](https://anilkumargunduappio-vn7g32vsgc8x5qsybdbuqx.streamlit.app/){:target="_blank"}
 
 
 ## 📌 NMOS GMID Plot Generation – SkyWater 130nm
