@@ -11,6 +11,9 @@ Check out our **battery-less e-textile step counting system** in action!
 🚀 **Key Highlights**:  
 ✅ Battery-free operation  ✅ Seamless textile integration  ✅ Step counting with energy harvesting
 
+## 📌 A Systematic and Simplified View of Beta-Multiplier
+Access the slides for initial analysis of the conventional beta multiplier from first principle! [here](/files/BETA_MULTIPLIER.pdf){:target="_blank"}. 
+
 ## 📌 Role of Tail Current Source Resistance in Common-Mode Gain
 You can access the attached 2-slides explaining the impact of tail current source on the common mode gain of the 5T- diff.pair [here](/files/COMMON_MODE_GAIN.pdf){:target="_blank"}. Concept verified using skywater 130nm PDK! 
 
