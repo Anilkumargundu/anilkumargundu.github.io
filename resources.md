@@ -11,8 +11,8 @@ Check out our **battery-less e-textile step counting system** in action!
 🚀 **Key Highlights**:  
 ✅ Battery-free operation  ✅ Seamless textile integration  ✅ Step counting with energy harvesting
 
-## 📌 Beta-Multiplier (Part-2) : Gm Tracking: Off-Chip Resistor Impact 
-Access the slides for initial analysis of the conventional beta multiplier from first principle! [here](/files/BETA_MULTIPLIER_PART_2.pdf){:target="_blank"}.
+## 📌 Beta-Multiplier (Part-2): Gm Tracking: Off-Chip Resistor Impact 
+Access the slides [here](/files/BETA_MULTIPLIER_PART_2.pdf){:target="_blank"}.
 
 
 ## 📌 A Systematic and Simplified View of Beta-Multiplier
