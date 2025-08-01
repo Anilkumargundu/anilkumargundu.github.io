@@ -40,12 +40,13 @@ python generate_gmid_plots.py
 ```
 Tutorial on how to install skywater 130nm PDK is [here](https://github.com/bmurmann/EE628.git){:target="_blank"}
 
+## 📌 Old notes nicely summarized about the flicker noise in the mosfet w.r.t VGS and VDS
 <img width="527" height="387" alt="image" src="https://github.com/user-attachments/assets/6ca4227f-32d4-4247-801a-f6012c591ae1" />
 
-![Energy vs VDD for a given frewuency (inverter)t](relative/or/full/path/to/image.png)
 
 
-## 📌 Old notes nicely summarized about the flicker noise in the mosfet w.r.t VGS and VDS
+
+## Inverter chanin energy consumption depection w.r.t power supply voltage
 View the pdf [here](/files/noise_in_mosfet.pdf){:target="_blank"}
 
 ## 🏭 Chip Gallery
