@@ -17,9 +17,11 @@ Access the hand written notes [here](files/BETA_MULTIPLIER_VARIENT.pdf){:target=
 ## 📌 Beta-Multiplier (Part-2): Gm Tracking: Off-Chip Resistor Impact 
 Access the slides [here](/files/BETA_MULTIPLIER_PART_2.pdf){:target="_blank"}.
 
-
 ## 📌 A Systematic and Simplified View of Beta-Multiplier
 Access the slides for initial analysis of the conventional beta multiplier from first principle! [here](/files/BETA_MULTIPLIER.pdf){:target="_blank"}. 
+
+## 📌 Qubit Visualization: Cartesian Plane & Bloch Sphere
+An interactive setup to visualize qubit (1-bit) states on both the Cartesian plane and the Bloch sphere.[here](https://qubitvisualization-bcyweipcjld8cltwadbuuj.streamlit.app/){:target="_blank"}
 
 ## 📌 Role of Tail Current Source Resistance in Common-Mode Gain
 You can access the attached 2-slides explaining the impact of tail current source on the common mode gain of the 5T- diff.pair [here](/files/COMMON_MODE_GAIN.pdf){:target="_blank"}. Concept verified using skywater 130nm PDK! 
