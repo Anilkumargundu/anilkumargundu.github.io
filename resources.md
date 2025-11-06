@@ -11,6 +11,8 @@ Check out our **battery-less e-textile step counting system** in action!
 🚀 **Key Highlights**:  
 ✅ Battery-free operation  ✅ Seamless textile integration  ✅ Step counting with energy harvesting
 
+## 📌 Quantum Comptuing Notes : [here]([Quantum_Computing_Notes](https://github.com/Anilkumargundu/Qubit_visualization/tree/main/Quantum_Computing_Notes)){:target="_blank"}.
+
 ## 📌 Beta-Multiplier (Part-3): Understanding a Variant of the Classic Circuit
 Access the hand written notes [here](files/BETA_MULTIPLIER_VARIENT.pdf){:target="_blank"}.
 
