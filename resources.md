@@ -1,4 +1,4 @@
----
+<img width="850" height="572" alt="64bit_macro_memory" src="https://github.com/user-attachments/assets/fb09e02f-f372-4c36-bc6f-fd7c875796a2" />---
 title: Resources
 permalink: /resources/
 nav: true
@@ -50,6 +50,9 @@ Tutorial on how to install skywater 130nm PDK is [here](https://github.com/bmurm
 
 ## Inverter chain energy consumption depection w.r.t power supply voltage 
 <img width="527" height="387" alt="image" src="https://github.com/user-attachments/assets/6ca4227f-32d4-4247-801a-f6012c591ae1" />
+
+## 64-bit Memory macro implemented using digital library of google skywater 130nm pdk 
+<<img width="527" height="387" alt="64bit_macro_memory" src="https://github.com/user-attachments/assets/7c30997d-3f81-457d-be14-e861f5a6e893" />
 
 
 ## 📌 Old notes nicely summarized about the flicker noise in the mosfet w.r.t VGS and VDS
