@@ -1,4 +1,4 @@
-<img width="850" height="572" alt="64bit_macro_memory" src="https://github.com/user-attachments/assets/fb09e02f-f372-4c36-bc6f-fd7c875796a2" />---
+---
 title: Resources
 permalink: /resources/
 nav: true
