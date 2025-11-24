@@ -52,7 +52,7 @@ Tutorial on how to install skywater 130nm PDK is [here](https://github.com/bmurm
 <img width="527" height="387" alt="image" src="https://github.com/user-attachments/assets/6ca4227f-32d4-4247-801a-f6012c591ae1" />
 
 ## 64-bit Memory macro implemented using digital library of google skywater 130nm pdk 
-<img width="527" height="387" alt="64bit_macro_memory" src="https://github.com/user-attachments/assets/7c30997d-3f81-457d-be14-e861f5a6e893" />
+<img width="500" height="387" alt="64bit_macro_memory" src="https://github.com/user-attachments/assets/7c30997d-3f81-457d-be14-e861f5a6e893" />
 
 
 ## 📌 Old notes nicely summarized about the flicker noise in the mosfet w.r.t VGS and VDS
